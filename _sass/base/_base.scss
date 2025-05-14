@@ -38,7 +38,8 @@ html {
 }
 
 body {
-  background: var(--main-bg);
+  // background: var(--main-bg);
+  background: rgb(27, 27, 30);
   padding: env(safe-area-inset-top) env(safe-area-inset-right)
     env(safe-area-inset-bottom) env(safe-area-inset-left);
   color: var(--text-color);
@@ -408,6 +409,7 @@ mjx-container {
 
 #main-wrapper {
   position: relative;
+  background: var(--main-bg);
 
   @include mx.pl-pr(0);
 
