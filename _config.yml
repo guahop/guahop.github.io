@@ -6,7 +6,7 @@ theme: jekyll-theme-chirpy
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
 # otherwise, the layout language will use the default value of 'en'.
-lang: en
+lang: ko
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
 timezone: Asia/Seoul
@@ -16,10 +16,10 @@ timezone: Asia/Seoul
 
 title: 구아홉 # the main title
 
-tagline: Lucky Number 9 - SAP 공부 # it will display as the subtitle
+tagline: Lucky Number 9 # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  SAP ABAP, Fiori, UI5 등 SAP 관련 개발 지식을 정리하고, 매일의 TIL을 기록하는 공간입니다.
+  서버, 네트워크, 클라우드 공부를 하고, 매일의 TIL을 기록하는 공간입니다.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -88,7 +88,7 @@ pageviews:
 #     light — Use the light color scheme
 #     dark — Use the dark color scheme
 #
-theme_mode: # [light | dark]
+theme_mode: light
 
 # The CDN endpoint for media resources.
 # Notice that once it is assigned, the CDN url
