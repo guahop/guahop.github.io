@@ -3,6 +3,7 @@ title: "[TIL] 2025.06.30"
 date: 2025-06-30
 categories: [TIL]
 tags: [TIL, 한국정보교육원]
+permalink: /til/2025-07-10/
 ---
 
 # TIL – 2025-06-30
